@@ -1,0 +1,18 @@
+.contenedor{
+    width: 100px;
+    height: 100px;  
+    
+}
+
+.rojo{
+    background-color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.azul{
+    display: inline-block;
+    margin-top: 20px;
+    background-color: blue;
+    
+}
